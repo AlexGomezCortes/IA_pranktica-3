@@ -1,2 +1,15 @@
-﻿  Mining.cpp
-  SDL_Decisions.vcxproj -> E:\SDL_Decisions\\bin\SDL_Decisions.exe
+﻿  Agent.cpp
+  BankDeposit.cpp
+  Drinking.cpp
+  main.cpp
+  Mining.cpp
+  Resting.cpp
+d:\documentos\github\ia_pranktica-3\src\resting.cpp(13): warning C4305: '+=': truncamiento de 'double' a 'float'
+  SceneDecisions.cpp
+d:\documentos\github\ia_pranktica-3\src\scenedecisions.cpp(126): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  SDL_SimpleApp.cpp
+d:\documentos\github\ia_pranktica-3\src\sdl_simpleapp.cpp(70): warning C4305: '=': truncamiento de 'double' a 'float'
+  SteeringBehavior.cpp
+  utils.cpp
+  Generando código...
+  SDL_Decisions.vcxproj -> D:\Documentos\GitHub\IA_pranktica-3\\bin\SDL_Decisions.exe
